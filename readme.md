@@ -1,1 +1,1 @@
-Slides from the paper "WebAA: Website Association Analysis via Multi-Resource Similarity Computation"
+Slide for the paper "WebAA: Website Association Analysis via Multi-Resource Similarity Computation"
